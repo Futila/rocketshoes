@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-O Rockeatshoes é um projeto que visa implentar a simulação de uma loja virtual simples, utilazando o Redux para o gerenciamento de estado da aplicação, desenvolvido no módulo 7 do bootcamp da Rocketseat, o GoStack.
+O Rockeatshoes é um projeto que visa implentar a simulação de uma loja virtual simples, utilazando o Redux para o gerenciamento de estado da aplicação, desenvolvido no módulo 8 do bootcamp da Rocketseat, o GoStack.
 
 ## 🧪 Tecnologias
 
