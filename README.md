@@ -1,8 +1,8 @@
 # ROCKETSHOES
 
 <div align="center">
-    <img src="https://github.com/Futila/rocketshoes/blob/master/src/assets/homepage.PNG" width="600px" />
-    <img src="https://github.com/Futila/rocketshoes/blob/master/src/assets/cartpage.PNG" width="600px" />
+    <img src="https://github.com/Futila/rocketshoes/blob/master/src/assets/homepage.JPG" width="600px" />
+    <img src="https://github.com/Futila/rocketshoes/blob/master/src/assets/cartpage.JPG" width="600px" />
 
 </div>
 
